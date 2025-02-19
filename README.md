@@ -34,8 +34,7 @@ streamlit run app.py
 The homepage allows you to upload either an **image** or a **video**.
 
 #### Example:
-![Upload Page](readme_images/original.PNG)
-![My webapp](readme_images/webapp.PNG)
+![My webapp](readme_images/original.PNG)
 
 ### Process and Download the Output
 Once uploaded, click on the "Run Detection" button. When processing is complete, a **download button** will appear.
