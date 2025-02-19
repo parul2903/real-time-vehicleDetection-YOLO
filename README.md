@@ -34,19 +34,19 @@ streamlit run app.py
 The homepage allows you to upload either an **image** or a **video**.
 
 #### Example:
-![Image](https://github.com/parul2903/real-time-vehicleDetection-YOLO/issues/3#issue-2864320779)
+https://github.com/parul2903/real-time-vehicleDetection-YOLO/issues/3#issue-2864320779
 
 ### Process and Download the Output
 Once uploaded, click on the "Run Detection" button. When processing is complete, a **download button** will appear.
 
 #### Example:
-![Image](https://github.com/parul2903/real-time-vehicleDetection-YOLO/issues/3#issue-2864320779)
+https://github.com/parul2903/real-time-vehicleDetection-YOLO/issues/2#issue-2864320137
 
 ### View the Processed Results
 The final processed image or video will highlight detected vehicles.
 
 #### Example:
-![Image](https://github.com/parul2903/real-time-vehicleDetection-YOLO/issues/3#issue-2864320779)
+https://github.com/parul2903/real-time-vehicleDetection-YOLO/issues/1#issue-2864319193
 
 ## Sample Video Output
 
