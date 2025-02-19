@@ -40,7 +40,7 @@ The homepage allows you to upload either an **image** or a **video**.
 Once uploaded, click on the "Run Detection" button. When processing is complete, a **download button** will appear.
 
 #### Example:
-![Upload](readme_images/uploadImg.png)
+![Upload](readme_images/uploadImage.png)
 
 ### View the Processed Results
 The final processed image or video will highlight detected vehicles.
